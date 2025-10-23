@@ -2,7 +2,7 @@
 
 The Tool Investigation and Code Improvement WG focuses on application of tools, handling the tool results, and improving the kernel based on the tools’ feedback.
 
-For more information, contact the working group chair, [Matt Kelly](mailto:matt.kelly2@boeing.com)
+For more information, engage with us on [Discord](https://discord.gg/SaSdDrrje)!
 
 * [Meeting Minutes](meeting-minutes)
 
@@ -12,9 +12,9 @@ For more information, contact the working group chair, [Matt Kelly](mailto:matt.
 
 ### Meeting Times
 
-* 2nd Tuesday of the month @ 9:30 AM EST / 2:30 PM UTC
-* 4th Thursday of the month @ 11:00 AM EST / 4:00 PM UTC
-* [Calendar](https://lists.elisa.tech/g/tool-investigation/calendar)
+* [Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/elisa?view=month)
+  * Look for the "Tools WG Meeting"
+  * Click on the entry and select "Register" to get an invite.
 
 ## Our Work
 
